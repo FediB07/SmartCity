@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <!-- App Name -->
+    <string name="app_name">سمارت سيتي</string>
+    <string name="app_name_display">Smart City</string>
+    <string name="app_tagline">تجربتك الحضرية المتصلة</string>
+    
+    <!-- Authentication Strings -->
+    <string name="login">تسجيل الدخول</string>
+    <string name="sign_up">إنشاء حساب</string>
+    <string name="sign_in">تسجيل الدخول</string>
+    <string name="create_account">إنشاء حساب</string>
+    <string name="logout">تسجيل الخروج</string>
+    
+    <!-- Input Fields -->
+    <string name="full_name">الاسم الكامل</string>
+    <string name="email">البريد الإلكتروني</string>
+    <string name="password">كلمة المرور</string>
+    <string name="enter_full_name">أدخل اسمك الكامل</string>
+    <string name="enter_email">أدخل بريدك الإلكتروني</string>
+    <string name="create_password">أنشئ كلمة مرور</string>
+    <string name="enter_password">أدخل كلمة المرور</string>
+    
+    <!-- Checkboxes & Links -->
+    <string name="remember_me">تذكرني</string>
+    <string name="forgot_password">هل نسيت كلمة المرور؟</string>
+    <string name="agree_terms">أوافق على شروط الخدمة وسياسة الخصوصية</string>
+    
+    <!-- Social Login -->
+    <string name="or_continue_with">أو المتابعة باستخدام</string>
+    <string name="google">جوجل</string>
+    <string name="facebook">فيسبوك</string>
+    <string name="github">جيت هاب</string>
+    
+    <!-- Messages -->
+    <string name="login_success">مرحبًا بعودتك، ‎%s!</string>
+    <string name="signup_success">تم إنشاء الحساب بنجاح!</string>
+    <string name="welcome_message">مرحبًا، ‎%s!</string>
+    <string name="login_success_message">تم تسجيل الدخول بنجاح إلى سمارت سيتي</string>
+    <string name="dashboard_placeholder">هذه صفحة لوحة تحكم مؤقتة. يمكنك دمج وحدات فريقك هنا.</string>
+    
+    <!-- Footer -->
+    <string name="powered_by">مدعوم من بنية سمارت سيتي التحتية</string>
+    
+    <!-- Content Descriptions -->
+    <string name="app_logo">شعار سمارت سيتي</string>
+    <string name="success_icon">أيقونة النجاح</string>
+    <string name="welcome">مرحبًا!</string>
+    <string name="welcome_illustration">رسم توضيحي للترحيب</string>
+    <string name="back">رجوع</string>
+    
+    <!-- Welcome Screen -->
+    <string name="welcome_title">ابدأ مع سمارت سيتي</string>
+    <string name="welcome_subtitle">استكشف مدينتك بطريقتك الخاصة. اكتشف أدوات قوية للإدارة الحضرية الحديثة.</string>
+    <string name="get_started">ابدأ الآن</string>
+    <string name="have_account">هل لديك حساب؟</string>
+    <string name="change_language">تغيير اللغة</string>
+    <string name="language_english">الإنجليزية</string>
+    <string name="language_french">الفرنسية</string>
+    <string name="language_arabic">العربية</string>
+
+    <!-- Welcome Pager additional pages -->
+    <string name="welcome_page2_title">خطط، تحرك، حسّن</string>
+    <string name="welcome_page2_subtitle">تابع الطاقة والتنقل والنظافة في الوقت الفعلي. احصل على رؤى ذكية لمدينة أكثر كفاءة واستدامة.</string>
+    <string name="welcome_page3_title">مدينتك بين يديك</string>
+    <string name="welcome_page3_subtitle">خصص التنبيهات، وشارك في القرارات المحلية، واكتشف الخدمات القريبة — كل ذلك في مكان واحد.</string>
+    
+    <!-- New Form Strings -->
+    <string name="email_address">عنوان البريد الإلكتروني</string>
+    <string name="email_hint">dewasiwa@gmail.com</string>
+    <string name="password_hint">••••••</string>
+    <string name="full_name_hint">أدخل اسمك الكامل</string>
+    <string name="create_account_title">إنشاء حساب</string>
+    <string name="or">أو</string>
+    <string name="continue_with_google">المتابعة باستخدام جوجل</string>
+    <string name="continue_with_facebook">المتابعة باستخدام فيسبوك</string>
+
+    <!-- Login footer link to signup -->
+    <string name="have_no_account">ليس لديك حساب؟</string>
+    <string name="create_now">أنشئ حسابًا الآن</string>
+    
+    <!-- Existing account toast -->
+    <string name="existing_account_signed_in">يبدو أنك تملك حسابًا بالفعل — قمنا بتسجيل دخولك.</string>
+
+
+</resources>

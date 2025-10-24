@@ -1,5 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Default Colors -->
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    
+    <!-- Smart City Theme Colors -->
+    <color name="primary_blue">#1E88E5</color>
+    <color name="primary_cyan">#00BCD4</color>
+    <color name="background_gradient">#E8F4F8</color>
+    <color name="background_color">#FFFFFF</color>
+    <color name="text_primary">#1A1A1A</color>
+    <color name="text_secondary">#424242</color>
+    <color name="icon_tint">#9E9E9E</color>
+    <color name="card_background">#FFFFFF</color>
+    <color name="error_color">#F44336</color>
 </resources>

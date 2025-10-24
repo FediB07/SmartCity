@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App Name -->
+    <string name="app_name">SmartCity</string>
+    <string name="app_name_display">Smart City</string>
+    <string name="app_tagline">Votre expérience urbaine connectée</string>
+    
+    <!-- Authentication Strings -->
+    <string name="login">Connexion</string>
+    <string name="sign_up">Inscription</string>
+    <string name="sign_in">Se connecter</string>
+    <string name="create_account">Créer un compte</string>
+    <string name="logout">Déconnexion</string>
+    
+    <!-- Input Fields -->
+    <string name="full_name">Nom complet</string>
+    <string name="email">Adresse e-mail</string>
+    <string name="password">Mot de passe</string>
+    <string name="enter_full_name">Entrez votre nom complet</string>
+    <string name="enter_email">Entrez votre adresse e-mail</string>
+    <string name="create_password">Créez un mot de passe</string>
+    <string name="enter_password">Entrez votre mot de passe</string>
+    
+    <!-- Checkboxes & Links -->
+    <string name="remember_me">Se souvenir de moi</string>
+    <string name="forgot_password">Mot de passe oublié ?</string>
+    <string name="agree_terms">J’accepte les Conditions d’utilisation et la Politique de confidentialité</string>
+    
+    <!-- Social Login -->
+    <string name="or_continue_with">OU CONTINUER AVEC</string>
+    <string name="google">Google</string>
+    <string name="facebook">Facebook</string>
+    <string name="github">GitHub</string>
+    
+    <!-- Messages -->
+    <string name="login_success">Bienvenue à nouveau, %s !</string>
+    <string name="signup_success">Compte créé avec succès !</string>
+    <string name="welcome_message">Bienvenue, %s !</string>
+    <string name="login_success_message">Vous êtes connecté avec succès à Smart City</string>
+    <string name="dashboard_placeholder">Ceci est un tableau de bord temporaire. Intégrez ici les modules de votre équipe.</string>
+    
+    <!-- Footer -->
+    <string name="powered_by">Propulsé par l’infrastructure Smart City</string>
+    
+    <!-- Content Descriptions -->
+    <string name="app_logo">Logo Smart City</string>
+    <string name="success_icon">Icône de réussite</string>
+    <string name="welcome">Bienvenue !</string>
+    <string name="welcome_illustration">Illustration de bienvenue</string>
+    <string name="back">Retour</string>
+    
+    <!-- Welcome Screen -->
+    <string name="welcome_title">Allons-y Smart City</string>
+    <string name="welcome_subtitle">Explorez et contrôlez votre ville à votre manière. Découvrez des outils puissants pour une gestion urbaine moderne.</string>
+    <string name="get_started">Commencer</string>
+    <string name="have_account">Vous avez déjà un compte ?</string>
+    <string name="change_language">Changer de langue</string>
+    <string name="language_english">Anglais</string>
+    <string name="language_french">Français</string>
+    <string name="language_arabic">Arabe</string>
+
+    <!-- Welcome Pager additional pages -->
+    <string name="welcome_page2_title">Planifiez optimisez</string>
+    <string name="welcome_page2_subtitle">Suivez l’énergie, la mobilité et la propreté en temps réel. Obtenez des informations intelligentes pour une ville plus efficace et durable.</string>
+    <string name="welcome_page3_title">Votre ville à portée de main</string>
+    <string name="welcome_page3_subtitle">Personnalisez vos alertes, participez aux décisions locales et découvrez les services à proximité — tout cela au même endroit.</string>
+    
+    <!-- New Form Strings -->
+    <string name="email_address">Adresse e-mail</string>
+    <string name="email_hint">dewasiwa@gmail.com</string>
+    <string name="password_hint">••••••</string>
+    <string name="full_name_hint">Entrez votre nom complet</string>
+    <string name="create_account_title">Créer un compte</string>
+    <string name="or">OU</string>
+    <string name="continue_with_google">Continuer avec Google</string>
+    <string name="continue_with_facebook">Continuer avec Facebook</string>
+    
+    <!-- Login footer link to signup -->
+    <string name="have_no_account">Vous n’avez pas de compte ?</string>
+    <string name="create_now">Créer maintenant</string>
+    
+    <!-- Existing account toast -->
+    <string name="existing_account_signed_in">Il semble que vous ayez déjà un compte — nous vous avons connecté.</string>
+</resources>
